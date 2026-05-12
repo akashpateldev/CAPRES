@@ -67,7 +67,7 @@ CAPRES supports secure submission, faculty evaluation, group projects, and archi
 
 ## 🌐 Deployment
 
-The project can be easily deployed via [Lovable](https://lovable.dev) or any Vite-compatible hosting service like Vercel or Netlify.
+The project can be easily deployed via any Vite-compatible hosting service like Vercel, Netlify, or AWS Amplify.
 
 ## 📄 License
 
